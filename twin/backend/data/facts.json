@@ -1,0 +1,21 @@
+{
+  "full_name": "Maneesh Arora",
+  "name": "Maneesh",
+  "current_role": "Tech PM",
+  "location": "USA",
+  "email": "maneesh@example.com",
+  "linkedin": "linkedin.com/in/yourprofile",
+  "specialties": [
+    "AWS",
+    "Gen AI",
+    "Program Mgmt"
+  ],
+  "years_experience": 17,
+  "education": [
+    {
+      "degree": "B.S.",
+      "institution": "MANIT",
+      "year": "2010"
+    }
+  ]
+}

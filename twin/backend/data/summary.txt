@@ -1,0 +1,6 @@
+I am a Technical PM with 15+ of experience in implementing technology transformation projects. 
+My expertise includes AWS Cloud and Gen AI.
+
+Currently, I'm focused on leveraging Gen AI to improve productivity.
+
+My background includes using Gen AI to improve document parsing, automated coding and automated QA.
